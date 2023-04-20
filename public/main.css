@@ -1,0 +1,7 @@
+.introjs-skipbutton{
+    border-radius:50px;
+}
+
+.introjs-skipbutton:hover{
+    background-color:rgba(0,0,0,0.4);
+}
